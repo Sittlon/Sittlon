@@ -8,4 +8,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-six-nu-96.vercel.app/api?username=sittlon&count_private=true&show_icons=true&locale=en&theme=radical" alt="sittlon" /></p>
 
-<p><img align="center" src="https://github-readme-stats-six-nu-96.vercel.app/?user=sittlon&count_private=true&theme=radical" alt="sittlon" /></p>
+<p><img align="center" src="https://github-readme-stats-six-nu-96.vercel.app/api/?user=sittlon&count_private=true&theme=radical" alt="sittlon" /></p>
