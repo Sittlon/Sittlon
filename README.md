@@ -6,7 +6,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sittlon&count_private=true&show_icons=true&locale=en&layout=compact&theme=radical" alt="sittlon" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sittlon&show_icons=true&locale=en&theme=radical&count_private=true" alt="sittlon" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sittlon&count_private=true&show_icons=true&locale=en&theme=radical" alt="sittlon" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sittlon&theme=radical&count_private=true" alt="sittlon" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sittlon&count_private=true&theme=radical" alt="sittlon" /></p>
