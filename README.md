@@ -6,4 +6,4 @@
 
 <p><img align="left" src="https://github-readme-stats-git-master-sittlon.vercel.app/api/top-langs?username=sittlon&include_orgs=true&count-private=true&show_icons=true&locale=en&layout=compact&theme=radical&hide=javascript,html,css,sass,scss,java" alt="sittlon" /></p>
 
-<p><img align="center" src="https://github-readme-stats-git-master-sittlon.vercel.app/api?username=sittlon&count_private=true&include_orgs=true&include_all_commits=true&show_icons=true&locale=en&theme=radical" alt="sittlon" /></p>
+<p><img align="left" src="https://github-readme-stats-git-master-sittlon.vercel.app/api?username=sittlon&count_private=true&include_orgs=true&include_all_commits=true&show_icons=true&locale=en&theme=radical" alt="sittlon" /></p>
