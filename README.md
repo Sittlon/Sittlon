@@ -12,4 +12,4 @@
 
 <p><img align="left" src="https://github-readme-stats-sittlon.vercel.app/api/top-langs?username=sittlon&include_orgs=true&exclude_repo=Questline_Creator_for_FCS&langs_count=6&count-private=true&show_icons=true&locale=en&layout=compact&theme=radical&hide=javascript,html,css,sass,scss,java" alt="sittlon" /></p>
 
-<p><img align="left" src="https://github-readme-stats-sittlon.vercel.app/api?username=sittlon&count_private=true&include_orgs=true&include_all_commits=true&show_icons=true&locale=en&theme=radical" alt="sittlon" /></p>
+<p><img align="left" src="https://github-readme-stats-sittlon.vercel.app/api?username=sittlon&count_private=true&include_orgs=true&show_icons=true&locale=en&theme=radical" alt="sittlon" /></p>
