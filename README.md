@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Robert Sittig</h1>
-<h3 align="center">C++/C# Developer from Germany</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
