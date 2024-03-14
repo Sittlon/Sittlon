@@ -21,8 +21,10 @@
 ###
 
 <div align="center">
-  <img src="github-readme-stats-six-nu-96.vercel.app?username=Sittlon&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="github-readme-stats-six-nu-96.vercel.app/top-langs?username=Sittlon&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2&hide=CSS,Sass,JavaScript,HTML,Scss" height="150" alt="languages graph"  />
+  <img src="github-readme-stats-a4az-8s2opmw7i-sittlons-projects.vercel.app?
+username=Sittlon&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="github-readme-stats-a4az-8s2opmw7i-sittlons-projects.vercel.app
+/top-langs?username=Sittlon&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2&hide=CSS,Sass,JavaScript,HTML,Scss" height="150" alt="languages graph"  />
 </div>
 
 ###
