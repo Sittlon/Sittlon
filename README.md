@@ -5,6 +5,8 @@
   <a href="https://getmestarted.io">
     <img src="https://getmestarted.io/badge.svg" alt="Featured on GetMeStarted.io" />
   </a>
+  <br/>
+  <em>Find new apps. Find testers. Get noticed.</em>
 </p>
 
 <p align="center">
