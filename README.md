@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Engineer | Systems Programming | Computer Vision Specialist</h3>
 
 <p align="center">
-  <a href="https://getmestarted.io">
+  <a href="https://getmestarted.io" target="_blank">
     <img src="https://getmestarted.io/badge.svg" alt="Featured on GetMeStarted.io" />
   </a>
   <br/>
