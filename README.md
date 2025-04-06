@@ -2,6 +2,12 @@
 <h3 align="center">Full Stack Engineer | Systems Programming | Computer Vision Specialist</h3>
 
 <p align="center">
+  <a href="https://getmestarted.io">
+    <img src="https://getmestarted.io/badge.svg" alt="Featured on GetMeStarted.io" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://profile-counter.glitch.me/Sittlon/count.svg?" alt="Profile Views" />
 </p>
 
