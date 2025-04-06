@@ -64,7 +64,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <i>⚡ Fun fact: I enjoy pushing the boundaries of computer vision and exploring new ways to optimize system performance!</i>
-</p>
