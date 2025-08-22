@@ -1,21 +1,5 @@
-<h1 align="center">Hi 👋, I'm Robert Sittig</h1>
-<h3 align="center">Full Stack Engineer | Systems Programming | Computer Vision Specialist</h3>
-
-<p align="center">
-  <a href="https://getmestarted.io" target="_blank">
-    <img src="https://getmestarted.io/badge.svg" alt="Featured on GetMeStarted.io" />
-  </a>
-  <br/>
-  <em>Find new apps. Find testers. Get noticed.</em>
-</p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Sittlon/count.svg?" alt="Profile Views" />
-</p>
-
-<p align="center">
-  I specialize in high-performance systems development and computer vision applications. With expertise spanning from low-level programming to infrastructure design, I create robust and efficient solutions for complex technical challenges.
-</p>
+<h1 align="center">Hi 👋, I'm Robert</h1>
+<h3 align="center">Pragmatischer Problemlöser | Application Manager</h3>
 
 ### 🛠️ Tech Stack & Expertise
 
@@ -23,26 +7,25 @@
   <!-- Programming Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
   <img width="10" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
-  <img width="10" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
-  <img width="10" />
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50"/>
   <img width="10" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   <img width="10" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+  <img width="10" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="50" height="50"/>
+  <img width="10" />
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50"/>
+  <img width="10" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/>
 </div>
 
-### 💼 Key Areas
-- 🔧 Systems Programming (C/C++, C#)
-- 🤖 Computer Vision & AI (OpenCV)
-- 🌐 Network Infrastructure & Security
-- 🛡️ Firewall Configuration & Management
-- 📜 Shell Scripting (Bash, PowerShell)
-- 🔄 Full Stack Development
-- 🚀 High-Performance Computing
-- 📱 Cross-Platform Development
+- 💻 **Code:** VBA/VBS, Python, JavaScript/TypeScript, C++, C#, Bash
+- 🤖 **KI & Computer Vision:** OpenCV für praktische Probleme
+- 🌐 **Netzwerkadministration:** Fortigate Firewall, Server, Switche
+- 🗄️ **Datenbanken:** MySQL, MSSQL, Oracle, Access
+- 🛠️ **User Support:** Hardware, Microsoft Office/Exchange
+- 📱 **App Development:** Swift, iOS Apps im App Store
 
 ### 📊 GitHub Stats
 
@@ -55,12 +38,26 @@
 
 <img src="https://raw.githubusercontent.com/Sittlon/Sittlon/output/snake.svg" alt="Snake animation" />
 
+### 🎯 Aktuelle Projekte
+- **AlltagsHeld:** iOS-App im App Store - von privater Organizer-App zum veröffentlichten Produkt
+- **KI-gestützte Mitarbeiter-Anonymisierung:** Computer Vision System für Datenschutz im Versandbereich
+- **Invoize XRechnung Processor:** C++ Middleware mit Webserver und REST-API
+- **Client Infrastructure Manager:** Unternehmensweites IT-Asset-Management
+
 ### 📫 Connect With Me
 <p align="center">
-  <a href="https://github.com/Sittlon" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://sittlon.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="Portfolio Website"/>
   </a>
-  <!-- Add other social links as needed -->
+  <a href="https://alltagsheld-app.de" target="_blank">
+    <img src="https://img.shields.io/badge/AlltagsHeld-FF6B35?style=for-the-badge&logo=safari&logoColor=white" alt="AlltagsHeld App"/>
+  </a>
+  <a href="https://apps.apple.com/de/app/alltagsheld/id6468967570" target="_blank">
+    <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/>
+  </a>
 </p>
+
+### 💭 Meine Philosophie
+> "Meine Projekte entstehen oft aus praktischen Bedürfnissen. So entwickle ich: pragmatisch, lösungsorientiert und immer mit dem Ziel, echte Probleme zu lösen."
 
 ---
