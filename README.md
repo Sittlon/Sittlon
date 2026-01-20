@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robert</h1>
-<h3 align="center">Pragmatischer Problemlöser | Application Manager</h3>
+<h3 align="center">Application Manager</h3>
 
 ### 🛠️ Tech Stack & Expertise
 
