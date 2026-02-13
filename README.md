@@ -22,12 +22,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/>
 </div>
 
-- 💻 **Code:** VBA/VBS, Python, JavaScript/TypeScript, C++, C#, Bash
-- 🤖 **KI & Computer Vision:** OpenCV für praktische Probleme
-- 🌐 **Netzwerkadministration:** Fortigate Firewall, Server, Switche
-- 🗄️ **Datenbanken:** MySQL, MSSQL, Oracle, Access
+- 💻 **Code:** JavaScript/TypeScript, C++, C#, VBA/VBS, Python, Bash
+- 🤖 **KI & Computer Vision:** OpenCV, torch
+- 🌐 **Netzwerkadministration:** Fortigate Firewall, Server, Cisco Switche
+- 🗄️ **Datenbanken:** MySQL, MSSQL, Access
 - 🛠️ **User Support:** Hardware, Microsoft Office/Exchange
-- 📱 **App Development:** Swift, iOS Apps im App Store
+- 📱 **App Development:** Swift, React Native
 
 ### 📊 GitHub Stats
 
